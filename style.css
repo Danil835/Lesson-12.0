@@ -1,0 +1,54 @@
+body{
+    background-color: white;
+}
+.logotip{
+    display: flex;
+    flex-direction: column;
+}
+.twoblocks{
+    display: flex;
+    justify-content: column;
+}
+.block1{
+    width: 500px;
+    height: 800px;
+    background: white;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    justify-content: center;
+}
+.block2{
+    width: 400px;
+    height: 800px;
+    background: rgb(22, 122, 236);
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.logotipgrey{
+    color: rgb(0, 0, 0);
+}
+.circle{
+    display: flex;
+    flex-direction: column;
+}
+.circeall{
+    display: flex;
+}
+.circlea1{
+    width: 100px;
+    height: 100px;
+    border: black 1px solid;
+    border-radius: 100%;
+}
+.circlea2{
+    width: 100px;
+    height: 100px;
+    border: black 1px solid;
+    border-radius: 100%;
+}
+.circlea3{
+    width: 100px;
+    height: 100px;
+    border: black 1px solid;
+    border-radius: 100%;
+}
